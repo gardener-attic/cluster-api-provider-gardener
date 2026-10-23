@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This project is unmaintained and might contain security flaws. Do not use it in productive scenarios.
+> It serves as a proof-of-concept for integrating Gardener with [Cluster API](https://cluster-api.sigs.k8s.io/) and [kcp](https://www.kcp.io/).
+
 # cluster-api-provider-gardener
 
 Kubernetes-native declarative infrastructure for Gardener Shoots.
